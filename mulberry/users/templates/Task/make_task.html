@@ -1,0 +1,9 @@
+
+
+<form action="{% url 'main'%}" method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit"> Переименовать </button>
+    <p><font color='red'>  {{error_message}} </font>
+    <p><font color='blue'> {{success_message}} </font>
+</form>

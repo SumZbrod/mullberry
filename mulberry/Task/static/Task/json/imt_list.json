@@ -1,0 +1,16 @@
+{
+  "id": "11",
+  "jsonrpc": "2.0",
+  "params": {
+    "filter": {
+      "order": {
+        "column": "updatedAt",
+        "order": "desc"
+      }
+    },
+    "query": {
+      "limit": 10,
+      "offset": 0
+    }
+  }
+}

@@ -1,0 +1,355 @@
+2022-09-01 00:33:27,368 - DEBUG - Task.toolbox.tools - nm_Id='123444', new_name='asdf'
+2022-09-01 00:33:33,789 - DEBUG - Task.toolbox.tools - nm_Id='-4', new_name='1324'
+2022-09-01 00:34:16,049 - DEBUG - Task.toolbox.tools - nm_Id='1324', new_name='weqwer'
+2022-09-01 00:34:16,050 - DEBUG - Task.toolbox.tools - <class 'str'>
+2022-09-01 00:34:49,602 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='1234'
+2022-09-01 09:49:28,917 - WARNING - Task.toolbox.tools - too many values to unpack (expected 1)
+2022-09-01 09:50:31,591 - DEBUG - Task.toolbox.tools - asdf
+2022-09-01 09:50:31,592 - DEBUG - Task.toolbox.tools - sd
+2022-09-01 09:50:31,592 - WARNING - Task.toolbox.tools - too many values to unpack (expected 1)
+2022-09-01 09:50:37,249 - DEBUG - Task.toolbox.tools - asdfasddf
+2022-09-01 09:50:37,249 - DEBUG - Task.toolbox.tools - dafasdsdf
+2022-09-01 09:50:37,249 - WARNING - Task.toolbox.tools - too many values to unpack (expected 1)
+2022-09-01 09:51:14,591 - DEBUG - Task.toolbox.tools - sdafasdf
+2022-09-01 09:51:14,592 - DEBUG - Task.toolbox.tools - asdf
+2022-09-01 09:51:14,592 - WARNING - Task.toolbox.tools - 'str' object has no attribute 'isnumerical'
+2022-09-01 09:51:57,792 - DEBUG - Task.toolbox.tools - aewf
+2022-09-01 09:51:57,793 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 09:51:57,793 - WARNING - Task.toolbox.tools - Айди должен быть числом
+2022-09-01 09:52:30,629 - DEBUG - Task.toolbox.tools - jkjknjn
+2022-09-01 09:52:30,630 - DEBUG - Task.toolbox.tools - 1231234
+2022-09-01 09:52:30,630 - WARNING - Task.toolbox.tools - Id must be the number
+2022-09-01 09:56:44,156 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 09:56:44,156 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 09:56:44,157 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 09:56:44,157 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:16:01,417 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:16:01,417 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:16:01,418 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:16:01,418 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:16:10,966 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:16:10,967 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:16:10,967 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:16:10,968 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:17:11,489 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:17:11,489 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:17:11,489 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:17:11,490 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:17:22,838 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:17:22,839 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:17:22,839 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:17:22,839 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:19:16,119 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:19:16,119 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:19:16,120 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:19:16,120 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:22:23,969 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 10:22:23,969 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 10:22:23,970 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 10:22:23,970 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:22:32,824 - DEBUG - Task.toolbox.tools - 324592
+2022-09-01 10:22:32,825 - DEBUG - Task.toolbox.tools - asdflkj
+2022-09-01 10:22:32,825 - DEBUG - Task.toolbox.tools - nm_Id=324592, new_name='asdflkj'
+2022-09-01 10:22:32,826 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'imt_list.json'
+2022-09-01 10:24:17,165 - DEBUG - Task.toolbox.tools - 12341234
+2022-09-01 10:24:17,165 - DEBUG - Task.toolbox.tools - 11234
+2022-09-01 10:24:17,166 - DEBUG - Task.toolbox.tools - nm_Id=12341234, new_name='11234'
+2022-09-01 10:24:17,166 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: '../data/imt_list.json'
+2022-09-01 10:25:04,406 - DEBUG - Task.toolbox.tools - 123412
+2022-09-01 10:25:04,406 - DEBUG - Task.toolbox.tools - 1324132
+2022-09-01 10:25:04,407 - DEBUG - Task.toolbox.tools - nm_Id=123412, new_name='1324132'
+2022-09-01 10:25:04,407 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: '../data/imt_list.json'
+2022-09-01 10:26:09,796 - DEBUG - Task.toolbox.tools - 239048729
+2022-09-01 10:26:09,796 - DEBUG - Task.toolbox.tools - 819324
+2022-09-01 10:26:09,797 - DEBUG - Task.toolbox.tools - nm_Id=239048729, new_name='819324'
+2022-09-01 10:26:09,797 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: '../data/imt_list.json'
+2022-09-01 10:30:35,062 - DEBUG - Task.toolbox.tools - 11
+2022-09-01 10:30:35,062 - DEBUG - Task.toolbox.tools - fsadadsf
+2022-09-01 10:30:35,062 - DEBUG - Task.toolbox.tools - nm_Id=11, new_name='fsadadsf'
+2022-09-01 10:30:35,063 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: '../data/imt_list.json'
+2022-09-01 10:31:15,440 - DEBUG - Task.toolbox.tools - 124
+2022-09-01 10:31:15,441 - DEBUG - Task.toolbox.tools - wr
+2022-09-01 10:31:15,441 - DEBUG - Task.toolbox.tools - nm_Id=124, new_name='wr'
+2022-09-01 10:31:15,442 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: '../data/imt_list.json'
+2022-09-01 10:32:14,940 - DEBUG - Task.toolbox.tools - 123412
+2022-09-01 10:32:14,941 - DEBUG - Task.toolbox.tools - 1341
+2022-09-01 10:32:14,941 - DEBUG - Task.toolbox.tools - nm_Id=123412, new_name='1341'
+2022-09-01 10:32:14,943 - ERROR - Task.toolbox.tools - 123412
+2022-09-01 10:32:14,944 - ERROR - Task.toolbox.tools - 
+2022-09-01 10:36:59,382 - DEBUG - Task.toolbox.tools - 124
+2022-09-01 10:36:59,383 - DEBUG - Task.toolbox.tools - wr
+2022-09-01 10:36:59,383 - DEBUG - Task.toolbox.tools - nm_Id=124, new_name='wr'
+2022-09-01 10:36:59,385 - ERROR - Task.toolbox.tools - 124
+2022-09-01 10:36:59,385 - ERROR - Task.toolbox.tools - 
+2022-09-01 10:37:04,148 - DEBUG - Task.toolbox.tools - 12341
+2022-09-01 10:37:04,149 - DEBUG - Task.toolbox.tools - 13241324
+2022-09-01 10:37:04,149 - DEBUG - Task.toolbox.tools - nm_Id=12341, new_name='13241324'
+2022-09-01 10:37:04,150 - ERROR - Task.toolbox.tools - 12341
+2022-09-01 10:37:04,151 - ERROR - Task.toolbox.tools - 
+2022-09-01 10:37:30,580 - DEBUG - Task.toolbox.tools - 2354145
+2022-09-01 10:37:30,581 - DEBUG - Task.toolbox.tools - 13241234
+2022-09-01 10:37:30,581 - DEBUG - Task.toolbox.tools - nm_Id=2354145, new_name='13241234'
+2022-09-01 10:37:30,583 - ERROR - Task.toolbox.tools - 2354145
+2022-09-01 10:37:30,583 - ERROR - Task.toolbox.tools - 
+2022-09-01 10:39:44,206 - DEBUG - Task.toolbox.tools - 21341234
+2022-09-01 10:39:44,206 - DEBUG - Task.toolbox.tools - 13241234
+2022-09-01 10:39:44,206 - DEBUG - Task.toolbox.tools - nm_Id=21341234, new_name='13241234'
+2022-09-01 10:39:44,208 - ERROR - Task.toolbox.tools - 21341234
+2022-09-01 10:39:44,209 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:20:43,041 - DEBUG - Task.toolbox.tools - -6132
+2022-09-01 14:20:43,042 - DEBUG - Task.toolbox.tools - 1324
+2022-09-01 14:20:43,042 - ERROR - Task.toolbox.tools - Id must be the number
+2022-09-01 14:25:58,743 - DEBUG - Task.toolbox.tools - -6132
+2022-09-01 14:25:58,743 - DEBUG - Task.toolbox.tools - 1324
+2022-09-01 14:25:58,744 - ERROR - Task.toolbox.tools - Id must be the number
+2022-09-01 14:26:22,037 - DEBUG - Task.toolbox.tools - -6132
+2022-09-01 14:26:22,038 - DEBUG - Task.toolbox.tools - 1324
+2022-09-01 14:26:22,038 - ERROR - Task.toolbox.tools - Id must be the number
+2022-09-01 14:26:29,404 - DEBUG - Task.toolbox.tools - 13241
+2022-09-01 14:26:29,404 - DEBUG - Task.toolbox.tools - wqer
+2022-09-01 14:26:29,405 - DEBUG - Task.toolbox.tools - nm_Id=13241, new_name='wqer'
+2022-09-01 14:26:29,406 - ERROR - Task.toolbox.tools - 13241
+2022-09-01 14:26:29,407 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:26:54,155 - DEBUG - Task.toolbox.tools - 13241
+2022-09-01 14:26:54,156 - DEBUG - Task.toolbox.tools - wqer
+2022-09-01 14:26:54,156 - DEBUG - Task.toolbox.tools - nm_Id=13241, new_name='wqer'
+2022-09-01 14:26:54,157 - ERROR - Task.toolbox.tools - 13241
+2022-09-01 14:26:54,158 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:27:40,170 - DEBUG - Task.toolbox.tools - 13241
+2022-09-01 14:27:40,170 - DEBUG - Task.toolbox.tools - wqer
+2022-09-01 14:27:40,171 - DEBUG - Task.toolbox.tools - nm_Id=13241, new_name='wqer'
+2022-09-01 14:27:40,172 - ERROR - Task.toolbox.tools - 13241
+2022-09-01 14:27:40,173 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:27:51,518 - DEBUG - Task.toolbox.tools - 13241
+2022-09-01 14:27:51,519 - DEBUG - Task.toolbox.tools - wqer
+2022-09-01 14:27:51,519 - DEBUG - Task.toolbox.tools - nm_Id=13241, new_name='wqer'
+2022-09-01 14:27:51,521 - ERROR - Task.toolbox.tools - 13241
+2022-09-01 14:27:51,521 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:28:14,285 - DEBUG - Task.toolbox.tools - 13241
+2022-09-01 14:28:14,286 - DEBUG - Task.toolbox.tools - wqer
+2022-09-01 14:28:14,286 - DEBUG - Task.toolbox.tools - nm_Id=13241, new_name='wqer'
+2022-09-01 14:28:14,287 - ERROR - Task.toolbox.tools - 13241
+2022-09-01 14:28:14,288 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:28:28,124 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:28:28,124 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:28:28,124 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:28:28,126 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:28:28,126 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:31:51,544 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:31:51,544 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:31:51,544 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:31:51,546 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:31:51,546 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:31:55,789 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:31:55,790 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:31:55,790 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:31:55,791 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:31:55,792 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:35:19,488 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:35:19,488 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:35:19,489 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:35:19,490 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:35:19,490 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:35:23,656 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:35:23,656 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:35:23,657 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:35:23,659 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:35:23,659 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:36:28,191 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:36:28,191 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:36:28,192 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:36:28,193 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:36:28,194 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:01,175 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:01,176 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:01,176 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:01,178 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:01,178 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:07,495 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:07,496 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:07,496 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:07,498 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:07,498 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:18,499 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:18,499 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:18,499 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:18,501 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:18,501 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:28,022 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:28,022 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:28,022 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:28,024 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:28,025 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:36,118 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:36,118 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:36,118 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:36,120 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:36,120 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:37:52,250 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:37:52,251 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:37:52,251 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:37:52,253 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:37:52,253 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:38:12,115 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:38:12,116 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:38:12,116 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:38:12,118 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:38:12,118 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:39:35,884 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:39:35,885 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:39:35,885 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:39:35,887 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:39:35,887 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:39:47,766 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:39:47,767 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:39:47,767 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:39:47,768 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:39:47,769 - ERROR - Task.toolbox.tools - 
+2022-09-01 14:40:42,715 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:40:42,716 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:40:42,716 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:40:42,718 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:40:42,718 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-01 14:40:59,679 - DEBUG - Task.toolbox.tools - 1234
+2022-09-01 14:40:59,679 - DEBUG - Task.toolbox.tools - adsf
+2022-09-01 14:40:59,679 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='adsf'
+2022-09-01 14:40:59,681 - ERROR - Task.toolbox.tools - 1234
+2022-09-01 14:40:59,681 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-01 14:41:21,910 - DEBUG - Task.toolbox.tools - 123432
+2022-09-01 14:41:21,910 - DEBUG - Task.toolbox.tools - 123412341324
+2022-09-01 14:41:21,911 - DEBUG - Task.toolbox.tools - nm_Id=123432, new_name='123412341324'
+2022-09-01 14:41:21,913 - ERROR - Task.toolbox.tools - 123432
+2022-09-01 14:41:21,913 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-01 14:42:11,374 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:42:11,375 - DEBUG - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 14:42:11,375 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заваривания'
+2022-09-01 14:42:11,377 - WARNING - Task.toolbox.tools - Ситечко для заваривания
+2022-09-01 14:42:11,377 - ERROR - Task.toolbox.tools - new name the same
+2022-09-01 14:45:49,153 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:45:49,154 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-01 14:45:49,154 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-01 14:47:37,758 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:47:37,758 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-01 14:47:37,759 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-01 14:48:23,353 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:48:23,354 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-01 14:48:23,355 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-01 14:48:23,356 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'TOKEN'
+2022-09-01 14:49:17,833 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:49:17,833 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-01 14:49:17,834 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-01 14:49:18,394 - DEBUG - Task.toolbox.tools - {'id': '43654833587442639633', 'jsonrpc': '2.0', 'result': {}}
+2022-09-01 14:53:49,261 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-01 14:53:49,261 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-01 14:53:49,262 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-01 14:53:52,830 - DEBUG - Task.toolbox.tools - {'id': '43654833587442639633', 'jsonrpc': '2.0', 'result': {}}
+2022-09-04 13:35:46,717 - DEBUG - Task.toolbox.tools - 34589234
+2022-09-04 13:35:46,719 - DEBUG - Task.toolbox.tools - asdjfjas
+2022-09-04 13:35:46,719 - DEBUG - Task.toolbox.tools - nm_Id=34589234, new_name='asdjfjas'
+2022-09-04 13:35:46,720 - DEBUG - Task.toolbox.tools - load vase
+2022-09-04 13:35:46,720 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'Task/data/imt_list.json'
+2022-09-04 13:40:43,652 - DEBUG - Task.toolbox.tools - 4352345
+2022-09-04 13:40:43,652 - DEBUG - Task.toolbox.tools - asdf
+2022-09-04 13:40:43,652 - DEBUG - Task.toolbox.tools - nm_Id=4352345, new_name='asdf'
+2022-09-04 13:40:43,653 - DEBUG - Task.toolbox.tools - load vase
+2022-09-04 13:40:43,653 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'Task/data/imt_list.json'
+2022-09-04 13:42:20,267 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 13:42:20,267 - DEBUG - Task.toolbox.tools - qwerty
+2022-09-04 13:42:20,267 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwerty'
+2022-09-04 13:42:20,268 - DEBUG - Task.toolbox.tools - load vase
+2022-09-04 13:42:20,268 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'Task/data/imt_list.json'
+2022-09-04 13:42:31,746 - DEBUG - Task.toolbox.tools - 1234
+2022-09-04 13:42:31,746 - DEBUG - Task.toolbox.tools - 1234
+2022-09-04 13:42:31,747 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='1234'
+2022-09-04 13:42:31,747 - DEBUG - Task.toolbox.tools - load vase
+2022-09-04 13:42:31,747 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'Task/data/imt_list.json'
+2022-09-04 13:44:59,122 - DEBUG - Task.toolbox.tools - 12341234
+2022-09-04 13:44:59,124 - DEBUG - Task.toolbox.tools - qwqer
+2022-09-04 13:44:59,124 - DEBUG - Task.toolbox.tools - nm_Id=12341234, new_name='qwqer'
+2022-09-04 13:44:59,125 - DEBUG - Task.toolbox.tools - load vase
+2022-09-04 13:53:04,063 - DEBUG - Task.toolbox.tools - 12341234
+2022-09-04 13:53:04,064 - DEBUG - Task.toolbox.tools - qwqer
+2022-09-04 13:53:04,064 - DEBUG - Task.toolbox.tools - nm_Id=12341234, new_name='qwqer'
+2022-09-04 13:53:08,256 - DEBUG - Task.toolbox.tools - 12341234
+2022-09-04 13:53:08,257 - DEBUG - Task.toolbox.tools - qwqer
+2022-09-04 13:53:08,257 - DEBUG - Task.toolbox.tools - nm_Id=12341234, new_name='qwqer'
+2022-09-04 13:58:02,136 - DEBUG - Task.toolbox.tools - 1234
+2022-09-04 13:58:02,136 - DEBUG - Task.toolbox.tools - qwer
+2022-09-04 13:58:02,137 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='qwer'
+2022-09-04 13:58:02,137 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 13:59:24,006 - DEBUG - Task.toolbox.tools - 1234
+2022-09-04 13:59:24,007 - DEBUG - Task.toolbox.tools - qwer
+2022-09-04 13:59:24,007 - DEBUG - Task.toolbox.tools - nm_Id=1234, new_name='qwer'
+2022-09-04 13:59:24,008 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 13:59:54,978 - DEBUG - Task.toolbox.tools - 1324
+2022-09-04 13:59:54,978 - DEBUG - Task.toolbox.tools - adsf
+2022-09-04 13:59:54,979 - DEBUG - Task.toolbox.tools - nm_Id=1324, new_name='adsf'
+2022-09-04 13:59:54,979 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:05:24,504 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:05:24,504 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:05:24,504 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:05:24,505 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:06:03,003 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:06:03,003 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:06:03,004 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:06:03,004 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:07:07,012 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:07:07,012 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:07:07,014 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:07:07,015 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:08:01,163 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:08:01,164 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:08:01,165 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:08:01,165 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:08:50,754 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:08:50,755 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:08:50,755 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:08:50,758 - ERROR - Task.toolbox.tools - 12345
+2022-09-04 14:09:36,707 - DEBUG - Task.toolbox.tools - 12345
+2022-09-04 14:09:36,708 - DEBUG - Task.toolbox.tools - qwert
+2022-09-04 14:09:36,709 - DEBUG - Task.toolbox.tools - nm_Id=12345, new_name='qwert'
+2022-09-04 14:09:36,711 - ERROR - Task.toolbox.tools - 12345
+2022-09-04 14:09:36,711 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-04 14:13:31,985 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:13:31,985 - DEBUG - Task.toolbox.tools - Ситечко для заварки.
+2022-09-04 14:13:31,985 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки.'
+2022-09-04 14:13:31,988 - ERROR - Task.toolbox.tools - [Errno 2] No such file or directory: 'Task/static/TOKEN'
+2022-09-04 14:14:50,310 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:14:50,311 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:14:50,311 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 14:14:53,817 - DEBUG - Task.toolbox.tools - {'id': '43654833587442639633', 'jsonrpc': '2.0', 'result': {}}
+2022-09-04 14:16:56,277 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:16:56,278 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:16:56,278 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 14:16:56,279 - DEBUG - Task.toolbox.tools - load base
+2022-09-04 14:16:56,631 - ERROR - Task.toolbox.tools - 119053206
+2022-09-04 14:16:56,632 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-04 14:17:04,752 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:17:04,752 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:17:04,752 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 14:17:04,753 - ERROR - Task.toolbox.tools - 119053206
+2022-09-04 14:17:04,754 - ERROR - Task.toolbox.tools - Данный айди не был найдет
+2022-09-04 14:47:00,017 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:47:00,018 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:47:00,019 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 14:47:00,021 - WARNING - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:47:00,021 - ERROR - Task.toolbox.tools - Этот товар уже имеет такое имя
+2022-09-04 14:47:09,489 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:47:09,490 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:47:09,490 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 14:47:09,492 - WARNING - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 14:47:09,493 - ERROR - Task.toolbox.tools - Этот товар уже имеет такое имя
+2022-09-04 14:47:15,441 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 14:47:15,442 - DEBUG - Task.toolbox.tools - Ситечко для заварки.
+2022-09-04 14:47:15,442 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки.'
+2022-09-04 14:47:18,839 - DEBUG - Task.toolbox.tools - {'id': '43654833587442639633', 'jsonrpc': '2.0', 'result': {}}
+2022-09-04 14:49:21,862 - DEBUG - Task.toolbox.tools - 14234123
+2022-09-04 14:49:21,862 - DEBUG - Task.toolbox.tools - weef
+2022-09-04 14:49:21,862 - DEBUG - Task.toolbox.tools - nm_Id=14234123, new_name='weef'
+2022-09-04 14:49:21,864 - ERROR - Task.toolbox.tools - 14234123
+2022-09-04 14:49:21,864 - ERROR - Task.toolbox.tools - Данный артикул не был найдет
+2022-09-04 15:00:28,436 - DEBUG - Task.toolbox.tools - 119053206
+2022-09-04 15:00:28,436 - DEBUG - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 15:00:28,436 - DEBUG - Task.toolbox.tools - nm_Id=119053206, new_name='Ситечко для заварки'
+2022-09-04 15:00:28,439 - WARNING - Task.toolbox.tools - Ситечко для заварки
+2022-09-04 15:00:28,439 - ERROR - Task.toolbox.tools - Этот товар уже имеет такое имя
